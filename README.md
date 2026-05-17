@@ -26,7 +26,7 @@ Linguapolis, Antwerp
 
 ### Journal Submissions
 
-- **A Parameterization of the \(3 \times 3\) Magic Square of Squares Problem**  
+- **A Parameterization of the $3 \times 3$ Magic Square of Squares Problem**  
   Submitted to *Notes on Number Theory and Discrete Mathematics*, April 2026.
 
 - **Parametric Constructions for Taxicab Numbers via Pell Equations**  
@@ -34,7 +34,7 @@ Linguapolis, Antwerp
 
 ### Preprints
 
-- **A Closed-Form Symbolic Generator for \(A^n + B^n = C^n + D^n\)**  
+- **A Closed-Form Symbolic Generator for $A^n + B^n = C^n + D^n$**  
   arXiv:2506.19173, June 2025.
 
 - **A Parametric Framework for the Sum of Three Cubes Problem**  
