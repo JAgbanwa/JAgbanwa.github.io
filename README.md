@@ -44,7 +44,7 @@ Linguapolis, Antwerp
 
 - Explicit parametric solutions to the sums of three cubes problem, focusing on stubborn cases (\(k = 192, 375, 600\), and others) using turning-point and Cardano-style methods.
 - Generalizations of taxicab numbers connected to Pell-type equations.
-- Advances on the \(3 \times 3\) magic square of squares problem.
+- Advances on the $3 \times 3$ magic square of squares problem.
 
 ---
 
