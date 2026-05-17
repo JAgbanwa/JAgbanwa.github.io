@@ -10,7 +10,7 @@
 
 ## 👤 Profile
 
-Independent mathematician specializing in Diophantine equations and explicit parametric constructions, with a focus on the sums of three cubes problem and generalizations of taxicab numbers.
+Mathematician working independently specializing in Diophantine equations and explicit parametric constructions, with a focus on the sums of three cubes problem and generalizations of taxicab numbers.
 
 ---
 
