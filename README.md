@@ -55,9 +55,8 @@ Linguapolis, Antwerp
   - A389865
   - A393694
   - A395378
-- Direct feedback on research from Professor Terence Tao (UCLA), 2025.
-- Positive engagement from researchers at KU Leuven, Princeton, and University of Leicester.
 
+    
 ---
 
 ## ⚙️ Skills
