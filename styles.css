@@ -489,8 +489,10 @@ section {
 
 .project-card {
     display: grid;
-    grid-template-columns: 1.2fr 1fr;
+    grid-template-columns: 1.05fr 0.95fr;
     gap: 1.5rem;
+    max-width: 1040px;
+    margin: 0 auto;
     border: 1px solid var(--border-color);
     border-radius: 14px;
     overflow: hidden;
@@ -506,6 +508,7 @@ section {
 
 .project-image-link {
     display: block;
+    padding: 1rem;
     border-right: 1px solid var(--border-color);
 }
 
@@ -513,8 +516,10 @@ section {
     display: block;
     width: 100%;
     height: 100%;
-    min-height: 300px;
+    min-height: 260px;
+    max-height: 360px;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 .project-body {
@@ -750,10 +755,12 @@ section {
     .project-image-link {
         border-right: none;
         border-bottom: 1px solid var(--border-color);
+        padding: 0.75rem;
     }
 
     .project-image {
-        min-height: 220px;
+        min-height: 200px;
+        max-height: 260px;
     }
 
     .info-grid {
